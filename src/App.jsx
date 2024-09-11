@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import { TodoProvider } from "./Context"
-import { prepareAutoBatched } from "@reduxjs/toolkit";
+
 import TodoForm from "./Components/TodoForm";
 import TodoItems from "./Components/TodoItems";
 
